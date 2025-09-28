@@ -1,1 +1,2 @@
-# Internship-and-Job-Portal System
+# Internship-and-Job-Portal Application
+
