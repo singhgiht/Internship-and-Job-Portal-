@@ -53,3 +53,20 @@ Improved efficiency in job/internship application and recruitment processes.
 Real-world exposure to API development, database optimization, and full-stack integration.
 
 Built scalable, maintainable codebase suitable for industry-level applications.
+
+How to run:
+
+Unzip and open the project folder.
+
+Create .env in the project root (or set VITE_API_BASE) — example:
+
+VITE_API_BASE=http://localhost:8080
+
+
+Install & run:
+
+npm install
+npm run dev
+
+
+Open the site and use the nav links to access Student / Recruiter / Admin dashboards.
